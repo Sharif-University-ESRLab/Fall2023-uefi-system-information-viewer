@@ -163,6 +163,7 @@ Some links related to your project come here.
 
 ## Authors
 Authors and their github link come here.
-- [@Arman17Babaei](https://github.com/Sharif-University-ESRLab)
-- [@Author2](https://github.com/Sharif-University-ESRLab)
+- [@panizhalvachi](https://github.com/panizhalvachi)
+- [@Arman17Babaei](https://github.com/Arman17Babaei)
+- [@yasamanzolfi](https://github.com/yasamanzolfi)
 
