@@ -1,5 +1,5 @@
 
-![Logo](https://via.placeholder.com/468x150?text=Your+Logo+Here)
+![Logo](https://github.com/Sharif-University-ESRLab/Fall2023-uefi-system-information-viewer/assets/59234302/b56815cd-14b3-463b-ade8-a46149ba5df9)
 
 
 
