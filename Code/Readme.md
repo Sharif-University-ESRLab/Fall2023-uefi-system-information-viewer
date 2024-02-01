@@ -1,20 +1,19 @@
 
 # Code
+Consult the [main repo](https://github.com/Arman17Babaei/UEFI-System-Information-Viewer) in case this one didn't work.
 
-Please upload your final codes to this folder.
+## AzSakhtPkg
+`AzSakhtPkg.dsc` is the main file that contains the list of all the modules that are part of the package. It also contains the build options for the package.
 
-If your project consists of multiple parts (e.g. server, client, and embedded device), create a separate folder for each one.
+### MainTable
+`MainTable.c` is the main file that contains the main function of the program. It is responsible for handling and forwarding the user's input.
 
+`Pages.h` contains the definition of the static pages.
 
-Please edit this *readme* file and give brief description of each part.
+`PageState.c` contains the main code responsible for handling the user's input and displaying the pages. It formats the current page and displays it on the screen.
 
-**Example:**
+#### Pages
+Each of the files in this folder represent a page. They may create dynamic pages if they see fit (e.g. `ACPIPage.c` creates a dynamic page for each ACPI table).
 
-## Server
-Server implemeted using `Django`.
-
-## Client
-Pure `HTML`, `CSS`& `JS` is used for user interface.
-
-## ESP32
-ESP32 is prgorammed using `C++` in `Arduino IDE`. 
+## Conf
+`target.txt` contains the target IP address.
