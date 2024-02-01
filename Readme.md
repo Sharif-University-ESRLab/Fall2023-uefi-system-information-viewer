@@ -3,7 +3,7 @@
 
 
 
-# Project Title
+# UEFI System Information Viewer
 
 In this project, we developed a UEFI application designed to present an interactive display of system information. Leveraging UEFI services and protocols, our program retrieves and showcases comprehensive hardware and firmware details, empowering users to seamlessly inspect and interact with key system information.
 
